@@ -1,0 +1,875 @@
+With a matrix of shape (4192, 455)
+
+Duration = 2.526 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9937975906352996
+Mean Accuracy: 0.9937980493402179
+Precision: [0.99647059 0.98946583 0.99181783 0.99645658 0.99522306]
+Recall: [0.99761905 0.9952381  0.9928428  0.9928428  0.9904475 ]
+
+Duration = 7.133 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9878321400159109
+Mean Accuracy: 0.9878341939185313
+Precision: [0.9895572  0.97678109 0.99400322 0.99061846 0.98947759]
+Recall: [0.9976047  0.99047619 0.9832903  0.97974756 0.98805221]
+
+Duration = 9.861 seg
+Mean scores for TREE
+Accuracy: 0.9503807250823957
+Mean Accuracy: 0.9503786574870912
+Precision: [0.97169886 0.95378019 0.95377734 0.93596941 0.93913548]
+Recall: [0.97497131 0.95119048 0.94870912 0.94508032 0.93194205]
+
+Duration = 0.604 seg
+Mean scores for KNN
+Accuracy: 0.9947539493124218
+Mean Accuracy: 0.9947504302925989
+Precision: [1.         0.98485477 0.99880952 0.99295453 0.99759036]
+Recall: [0.99761905 0.9952381  0.9904475  0.99642857 0.99401893]
+
+Duration = 22.017 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9880719399931811
+Mean Accuracy: 0.9880780263912795
+Precision: [0.99649795 0.99292618 0.98688834 0.98112989 0.9834994 ]
+Recall: [0.98927137 0.98809524 0.98686173 0.98927137 0.98689042]
+
+------------------------------------------------------------------------------------------------------------------
+S1 - Person number 1
+With a matrix of shape (200, 455)
+
+Duration = 0.044 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   1.   0.98 1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 0.096 seg
+Mean scores for SVC - RBF
+Accuracy: 0.985
+Mean Accuracy: 0.985
+Precision: [1.   1.   1.   0.94 1.  ]
+Recall: [0.975 1.    1.    1.    0.95 ]
+
+Duration = 0.158 seg
+Mean scores for TREE
+Accuracy: 0.96
+Mean Accuracy: 0.96
+Precision: [0.975      0.90166667 1.         0.975      0.98      ]
+Recall: [0.975 0.975 0.95  0.975 0.925]
+
+Duration = 0.067 seg
+Mean scores for KNN
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   1.   0.98 1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 1.044 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   0.98 1.   1.   0.98]
+Recall: [0.975 1.    1.    1.    0.975]
+
+
+------------------------------------------------------------------------------------------------------------------
+S2 - Person number 2
+With a matrix of shape (200, 455)
+
+Duration = 0.030 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [0.98 1.   1.   1.   0.98]
+Recall: [1.   1.   1.   0.95 1.  ]
+
+Duration = 0.068 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9899999999999999
+Mean Accuracy: 0.99
+Precision: [0.98 1.   1.   1.   0.98]
+Recall: [1.   1.   1.   0.95 1.  ]
+
+Duration = 0.146 seg
+Mean scores for TREE
+Accuracy: 0.9650000000000001
+Mean Accuracy: 0.9650000000000001
+Precision: [0.96666667 1.         0.98       0.94666667 0.96      ]
+Recall: [1.    1.    0.975 0.9   0.95 ]
+
+Duration = 0.071 seg
+Mean scores for KNN
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   0.98 1.   1.   1.  ]
+Recall: [1.    1.    1.    0.975 1.   ]
+
+Duration = 1.125 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.975
+Mean Accuracy: 0.975
+Precision: [1.         0.96666667 0.98       0.98       0.98      ]
+Recall: [0.975 0.975 1.    0.95  0.975]
+
+
+------------------------------------------------------------------------------------------------------------------
+S3 - Person number 3
+With a matrix of shape (200, 455)
+
+Duration = 0.032 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.075 seg
+Mean scores for SVC - RBF
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   1.   1.   1.   0.96]
+Recall: [1.    0.975 1.    0.975 1.   ]
+
+Duration = 0.127 seg
+Mean scores for TREE
+Accuracy: 0.9400000000000001
+Mean Accuracy: 0.9399999999999998
+Precision: [0.94       0.92666667 0.92       0.98       0.98      ]
+Recall: [0.975 0.85  0.95  0.95  0.975]
+
+Duration = 0.071 seg
+Mean scores for KNN
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 1.148 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9850000000000001
+Mean Accuracy: 0.985
+Precision: [0.98 0.98 1.   1.   0.98]
+Recall: [0.95  1.    1.    1.    0.975]
+
+
+------------------------------------------------------------------------------------------------------------------
+S4 - Person number 4
+With a matrix of shape (197, 455)
+
+Duration = 0.031 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   0.98 1.   1.   0.98]
+Recall: [1.    0.975 1.    1.    0.975]
+
+Duration = 0.064 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9894736842105264
+Mean Accuracy: 0.9883333333333333
+Precision: [1.         0.96666667 1.         1.         1.        ]
+Recall: [0.96666667 1.         1.         1.         0.975     ]
+
+Duration = 0.150 seg
+Mean scores for TREE
+Accuracy: 0.9392105263157895
+Mean Accuracy: 0.9383333333333335
+Precision: [0.98  0.95  0.96  0.955 0.895]
+Recall: [0.96666667 0.925      0.95       0.95       0.9       ]
+
+Duration = 0.068 seg
+Mean scores for KNN
+Accuracy: 0.9947368421052631
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   0.98 1.   1.   1.  ]
+Recall: [1.    1.    1.    1.    0.975]
+
+Duration = 1.234 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9692105263157895
+Mean Accuracy: 0.9683333333333334
+Precision: [0.98       0.93714286 1.         1.         0.98      ]
+Recall: [0.96666667 1.         0.975      0.95       0.95      ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S5 - Person number 5
+With a matrix of shape (200, 455)
+
+Duration = 0.029 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.050 seg
+Mean scores for SVC - RBF
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   0.96 1.   1.   1.  ]
+Recall: [1.   1.   0.95 1.   1.  ]
+
+Duration = 0.148 seg
+Mean scores for TREE
+Accuracy: 0.9649999999999999
+Mean Accuracy: 0.9650000000000001
+Precision: [0.98       0.98       0.94666667 0.96       1.        ]
+Recall: [0.975 0.975 0.975 0.95  0.95 ]
+
+Duration = 0.071 seg
+Mean scores for KNN
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   0.96 1.   1.   1.  ]
+Recall: [1.   1.   0.95 1.   1.  ]
+
+Duration = 0.915 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.985
+Mean Accuracy: 0.985
+Precision: [0.98 1.   0.98 0.98 1.  ]
+Recall: [1.    1.    0.975 0.975 0.975]
+
+
+------------------------------------------------------------------------------------------------------------------
+S6 - Person number 6
+With a matrix of shape (200, 455)
+
+Duration = 0.027 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.053 seg
+Mean scores for SVC - RBF
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.133 seg
+Mean scores for TREE
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   1.   0.98 1.  ]
+Recall: [1.    1.    0.975 1.    1.   ]
+
+Duration = 0.068 seg
+Mean scores for KNN
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.798 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9700000000000001
+Mean Accuracy: 0.97
+Precision: [0.98       0.93333333 1.         1.         0.98      ]
+Recall: [0.95  0.975 0.975 1.    0.95 ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S7 - Person number 7
+With a matrix of shape (199, 455)
+
+Duration = 0.035 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   1.   0.98 0.98 1.  ]
+Recall: [1.    1.    0.975 1.    0.975]
+
+Duration = 0.079 seg
+Mean scores for SVC - RBF
+Accuracy: 0.8850000000000001
+Mean Accuracy: 0.885
+Precision: [1.         0.94666667 0.98       0.69095238 1.        ]
+Recall: [0.925 1.    0.975 0.975 0.55 ]
+
+Duration = 0.136 seg
+Mean scores for TREE
+Accuracy: 0.8797368421052632
+Mean Accuracy: 0.8783333333333333
+Precision: [0.89333333 0.96       0.98       0.79666667 0.84166667]
+Recall: [0.9        1.         0.95       0.775      0.76666667]
+
+Duration = 0.071 seg
+Mean scores for KNN
+Accuracy: 0.9747368421052632
+Mean Accuracy: 0.9733333333333333
+Precision: [1.   0.98 1.   0.92 1.  ]
+Recall: [0.95       1.         0.975      1.         0.94166667]
+
+Duration = 1.307 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9547368421052633
+Mean Accuracy: 0.9550000000000001
+Precision: [0.96666667 0.98       0.94666667 0.98       0.96666667]
+Recall: [0.925 0.95  0.975 0.975 0.95 ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S8 - Person number 8
+With a matrix of shape (198, 455)
+
+Duration = 0.028 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.068 seg
+Mean scores for SVC - RBF
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.134 seg
+Mean scores for TREE
+Accuracy: 0.9597368421052632
+Mean Accuracy: 0.9600000000000002
+Precision: [1.         0.94666667 0.98       0.935      0.98      ]
+Recall: [1.    0.975 0.975 0.975 0.875]
+
+Duration = 0.070 seg
+Mean scores for KNN
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.853 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   1.   0.98 1.   0.98]
+Recall: [1.    1.    0.975 0.975 1.   ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S9 - Person number 9
+With a matrix of shape (200, 455)
+
+Duration = 0.036 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.97
+Mean Accuracy: 0.9700000000000001
+Precision: [1.         0.92666667 1.         0.96       1.        ]
+Recall: [1.    0.975 0.975 0.975 0.925]
+
+Duration = 0.060 seg
+Mean scores for SVC - RBF
+Accuracy: 0.975
+Mean Accuracy: 0.975
+Precision: [1.         0.92666667 0.98       1.         1.        ]
+Recall: [1.    0.975 0.975 0.975 0.95 ]
+
+Duration = 0.196 seg
+Mean scores for TREE
+Accuracy: 0.9200000000000002
+Mean Accuracy: 0.9199999999999999
+Precision: [0.98       0.975      0.90666667 0.91333333 0.92166667]
+Recall: [1.    0.9   0.875 0.9   0.925]
+
+Duration = 0.069 seg
+Mean scores for KNN
+Accuracy: 0.9700000000000001
+Mean Accuracy: 0.9700000000000001
+Precision: [1.         0.90166667 0.98       1.         1.        ]
+Recall: [1.    0.975 0.975 0.975 0.925]
+
+Duration = 1.443 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.97
+Mean Accuracy: 0.97
+Precision: [1.    0.98  0.915 0.98  1.   ]
+Recall: [1.    0.95  0.975 0.975 0.95 ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S10 - Person number 10
+With a matrix of shape (200, 455)
+
+Duration = 0.033 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.065 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9600000000000002
+Mean Accuracy: 0.96
+Precision: [0.98  0.94  0.98  0.935 1.   ]
+Recall: [0.975 1.    0.975 0.925 0.925]
+
+Duration = 0.145 seg
+Mean scores for TREE
+Accuracy: 0.95
+Mean Accuracy: 0.95
+Precision: [0.96       0.96666667 0.98       0.92       0.98      ]
+Recall: [0.95  0.975 0.925 0.95  0.95 ]
+
+Duration = 0.069 seg
+Mean scores for KNN
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [0.98 0.98 1.   1.   1.  ]
+Recall: [1.   1.   1.   0.95 1.  ]
+
+Duration = 1.141 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.975
+Mean Accuracy: 0.975
+Precision: [1.   0.98 0.98 0.98 0.96]
+Recall: [0.975 1.    1.    0.925 0.975]
+
+
+------------------------------------------------------------------------------------------------------------------
+S11 - Person number 11
+With a matrix of shape (200, 455)
+
+Duration = 0.030 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [1.    1.    1.    1.    0.975]
+
+Duration = 0.064 seg
+Mean scores for SVC - RBF
+Accuracy: 0.975
+Mean Accuracy: 0.975
+Precision: [1.   1.   0.98 0.94 0.98]
+Recall: [1.    0.95  1.    1.    0.925]
+
+Duration = 0.149 seg
+Mean scores for TREE
+Accuracy: 0.95
+Mean Accuracy: 0.95
+Precision: [0.98  0.92  0.975 0.935 0.98 ]
+Recall: [0.975 0.95  0.925 0.95  0.95 ]
+
+Duration = 0.070 seg
+Mean scores for KNN
+Accuracy: 0.9899999999999999
+Mean Accuracy: 0.99
+Precision: [1.   1.   0.98 1.   0.98]
+Recall: [1.    0.975 1.    1.    0.975]
+
+Duration = 1.062 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9800000000000001
+Mean Accuracy: 0.9800000000000001
+Precision: [0.96666667 1.         1.         0.96       1.        ]
+Recall: [1.   0.95 1.   1.   0.95]
+
+
+------------------------------------------------------------------------------------------------------------------
+S12 - Person number 12
+With a matrix of shape (200, 455)
+
+Duration = 0.031 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9850000000000001
+Mean Accuracy: 0.985
+Precision: [1.   0.98 0.98 0.98 1.  ]
+Recall: [1.    0.975 0.95  1.    1.   ]
+
+Duration = 0.073 seg
+Mean scores for SVC - RBF
+Accuracy: 0.97
+Mean Accuracy: 0.97
+Precision: [1.   0.98 0.94 0.96 1.  ]
+Recall: [1.    1.    0.925 0.925 1.   ]
+
+Duration = 0.158 seg
+Mean scores for TREE
+Accuracy: 0.8799999999999999
+Mean Accuracy: 0.8800000000000001
+Precision: [0.94       0.91333333 0.84       0.88666667 0.90166667]
+Recall: [0.9   0.825 0.9   0.825 0.95 ]
+
+Duration = 0.067 seg
+Mean scores for KNN
+Accuracy: 0.9850000000000001
+Mean Accuracy: 0.985
+Precision: [1.   0.98 1.   0.96 1.  ]
+Recall: [1.    1.    0.925 1.    1.   ]
+
+Duration = 1.046 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9550000000000001
+Mean Accuracy: 0.9550000000000001
+Precision: [1.         0.96       0.96666667 0.93714286 0.98      ]
+Recall: [0.95  0.975 0.95  0.975 0.925]
+
+
+------------------------------------------------------------------------------------------------------------------
+S13 - Person number 13
+With a matrix of shape (200, 455)
+
+Duration = 0.029 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.060 seg
+Mean scores for SVC - RBF
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.139 seg
+Mean scores for TREE
+Accuracy: 0.9700000000000001
+Mean Accuracy: 0.97
+Precision: [0.96 0.98 0.98 1.   0.96]
+Recall: [1.    0.975 0.975 0.925 0.975]
+
+Duration = 0.070 seg
+Mean scores for KNN
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.966 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   0.98 1.   1.   1.  ]
+Recall: [1.    1.    0.975 1.    1.   ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S14 - Person number 14
+With a matrix of shape (200, 455)
+
+Duration = 0.028 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   1.   0.98 1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 0.056 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   1.   0.98 1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 0.136 seg
+Mean scores for TREE
+Accuracy: 0.96
+Mean Accuracy: 0.96
+Precision: [1.         0.98       0.975      0.94666667 0.94      ]
+Recall: [0.925 0.975 0.95  1.    0.95 ]
+
+Duration = 0.068 seg
+Mean scores for KNN
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   1.   0.98 1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 0.892 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   1.   1.   0.98]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S15 - Person number 15
+With a matrix of shape (200, 455)
+
+Duration = 0.028 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.046 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9899999999999999
+Mean Accuracy: 0.99
+Precision: [1.   0.96 1.   1.   1.  ]
+Recall: [0.95 1.   1.   1.   1.  ]
+
+Duration = 0.142 seg
+Mean scores for TREE
+Accuracy: 0.985
+Mean Accuracy: 0.9850000000000001
+Precision: [0.98 1.   0.98 1.   0.98]
+Recall: [0.975 0.975 1.    0.975 1.   ]
+
+Duration = 0.071 seg
+Mean scores for KNN
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   0.96 1.   1.   1.  ]
+Recall: [0.95 1.   1.   1.   1.  ]
+
+Duration = 0.791 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S16 - Person number 16
+With a matrix of shape (199, 455)
+
+Duration = 0.031 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [0.98 1.   1.   1.   1.  ]
+Recall: [1.    1.    1.    1.    0.975]
+
+Duration = 0.070 seg
+Mean scores for SVC - RBF
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.135 seg
+Mean scores for TREE
+Accuracy: 0.9244736842105266
+Mean Accuracy: 0.925
+Precision: [0.94       0.935      0.98       0.98       0.87880952]
+Recall: [0.95  0.875 1.    0.9   0.9  ]
+
+Duration = 0.070 seg
+Mean scores for KNN
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   0.98 1.   1.   1.  ]
+Recall: [1.    1.    1.    1.    0.975]
+
+Duration = 1.000 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.975
+Mean Accuracy: 0.975
+Precision: [0.98       1.         0.96666667 0.96       1.        ]
+Recall: [0.975 1.    1.    0.975 0.925]
+
+
+------------------------------------------------------------------------------------------------------------------
+S17 - Person number 17
+With a matrix of shape (200, 455)
+
+Duration = 0.031 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   0.98 0.98 1.   1.  ]
+Recall: [1.    0.975 0.975 1.    1.   ]
+
+Duration = 0.064 seg
+Mean scores for SVC - RBF
+Accuracy: 0.96
+Mean Accuracy: 0.96
+Precision: [1.         0.84666667 1.         1.         1.        ]
+Recall: [0.95 1.   0.85 1.   1.  ]
+
+Duration = 0.159 seg
+Mean scores for TREE
+Accuracy: 0.9349999999999999
+Mean Accuracy: 0.9349999999999999
+Precision: [0.955      0.92       0.94666667 0.955      0.96      ]
+Recall: [0.925 0.95  0.9   0.9   1.   ]
+
+Duration = 0.068 seg
+Mean scores for KNN
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 1.274 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9600000000000002
+Mean Accuracy: 0.9600000000000002
+Precision: [0.96       0.91333333 0.98       1.         1.        ]
+Recall: [1.    0.975 0.925 0.95  0.95 ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S18 - Person number 18
+With a matrix of shape (199, 455)
+
+Duration = 0.028 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.054 seg
+Mean scores for SVC - RBF
+Accuracy: 0.99
+Mean Accuracy: 0.99
+Precision: [1.   1.   1.   0.96 1.  ]
+Recall: [1.   1.   1.   1.   0.95]
+
+Duration = 0.149 seg
+Mean scores for TREE
+Accuracy: 0.9650000000000001
+Mean Accuracy: 0.9650000000000001
+Precision: [1.         0.955      0.98       0.94666667 0.98      ]
+Recall: [0.975 0.95  0.975 0.975 0.95 ]
+
+Duration = 0.071 seg
+Mean scores for KNN
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.962 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.985
+Mean Accuracy: 0.985
+Precision: [1.   1.   1.   0.98 0.96]
+Recall: [1.    1.    1.    0.95  0.975]
+
+
+------------------------------------------------------------------------------------------------------------------
+S19 - Person number 19
+With a matrix of shape (200, 455)
+
+Duration = 0.028 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [1.    1.    1.    0.975 1.   ]
+
+Duration = 0.053 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [1.    1.    1.    0.975 1.   ]
+
+Duration = 0.146 seg
+Mean scores for TREE
+Accuracy: 0.9650000000000001
+Mean Accuracy: 0.9650000000000001
+Precision: [0.98  0.98  0.975 0.93  0.975]
+Recall: [0.975 1.    0.925 0.95  0.975]
+
+Duration = 0.071 seg
+Mean scores for KNN
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [1.    1.    1.    0.975 1.   ]
+
+Duration = 0.936 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [1.    1.    1.    0.975 1.   ]
+
+
+------------------------------------------------------------------------------------------------------------------
+S20 - Person number 20
+With a matrix of shape (200, 455)
+
+Duration = 0.027 seg
+Mean scores for SVC - LINEAR
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.048 seg
+Mean scores for SVC - RBF
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.148 seg
+Mean scores for TREE
+Accuracy: 0.97
+Mean Accuracy: 0.97
+Precision: [0.98 0.98 1.   0.96 0.96]
+Recall: [1.    0.95  0.925 1.    0.975]
+
+Duration = 0.072 seg
+Mean scores for KNN
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+Duration = 0.751 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 1.0
+Mean Accuracy: 1.0
+Precision: [1. 1. 1. 1. 1.]
+Recall: [1. 1. 1. 1. 1.]
+
+
+------------------------------------------------------------------------------------------------------------------
+S21 - Person number 21
+With a matrix of shape (200, 455)
+
+Duration = 0.031 seg
+Mean scores for SVC - LINEAR
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 0.055 seg
+Mean scores for SVC - RBF
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   1.   0.98 1.   1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 0.142 seg
+Mean scores for TREE
+Accuracy: 0.9149999999999998
+Mean Accuracy: 0.915
+Precision: [0.92166667 1.         0.94666667 0.895      0.88666667]
+Recall: [0.9   0.85  1.    0.9   0.925]
+
+Duration = 0.120 seg
+Mean scores for KNN
+Accuracy: 0.9949999999999999
+Mean Accuracy: 0.9949999999999999
+Precision: [1.   0.98 1.   1.   1.  ]
+Recall: [0.975 1.    1.    1.    1.   ]
+
+Duration = 0.820 seg
+Mean scores for NEURAL_NETWORK
+Accuracy: 0.9799999999999999
+Mean Accuracy: 0.9800000000000001
+Precision: [1.         0.93714286 1.         1.         1.        ]
+Recall: [0.95  1.    0.975 0.975 1.   ]
